@@ -16,7 +16,7 @@ public class HomePage {
     @FindBy(linkText = " Home ")
     public WebElement HomeButton;
 
-    @FindBy(linkText = "logout")
+    @FindBy(xpath = "//a[@href='/logout']")
     public WebElement LogoutButton;
 
     @FindBy(linkText = "JAPANESE AUCTIONS")
