@@ -19,7 +19,7 @@ public class HomePage {
     @FindBy(xpath = "//a[@href='/logout']")
     public WebElement LogoutButton;
 
-    @FindBy(linkText = "JAPANESE AUCTIONS")
+    @FindBy(id = "g71")
     public WebElement JapaneseAuctionsButton;
 
     @FindBy(xpath="//input[@tabindex='1']")

@@ -32,6 +32,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="7d9b6850-b3c9-402d-a1ad-97eb3eac8579" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -170,7 +173,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656534823278</updated>
       <workItem from="1656534825227" duration="9866000" />
-      <workItem from="1656610464441" duration="4176000" />
+      <workItem from="1656610464441" duration="5325000" />
     </task>
     <task id="LOCAL-00001" summary="first commit&#10;folders/packages/config.properties added">
       <created>1656535879180</created>
@@ -193,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656613991590</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="firth  commit&#10;logout feature added and executed the test. all tests passed">
+      <created>1656614915825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656614915825</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +236,7 @@
     <MESSAGE value="first commit&#10;folders/packages/config.properties added" />
     <MESSAGE value="Second commit&#10;Added Utilities package and methods&#10;ConfigurationReader" />
     <MESSAGE value="Third/fourth commit&#10;login feature added and executed the test. all tests passed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third/fourth commit&#10;login feature added and executed the test. all tests passed" />
+    <MESSAGE value="firth  commit&#10;logout feature added and executed the test. all tests passed" />
+    <option name="LAST_COMMIT_MESSAGE" value="firth  commit&#10;logout feature added and executed the test. all tests passed" />
   </component>
 </project>
